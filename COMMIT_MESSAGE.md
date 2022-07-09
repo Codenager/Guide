@@ -10,7 +10,7 @@
 
 `refactor` : 코드 리팩토링
 
-`feat` : 기능 추가
+`feat` : 기능 / 페이지 추가
 
 `comment` : 주석 추가
 
